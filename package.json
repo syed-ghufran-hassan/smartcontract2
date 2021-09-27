@@ -1,0 +1,14 @@
+{
+  "name": "contract2",
+  "version": "1.0.0",
+  "description": "truffle smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "ghufran",
+  "license": "ISC"
+}
