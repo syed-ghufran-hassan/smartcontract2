@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+# Decentralized Order Book Marketplace
+
+This project is basically online book market place in which seller can sell with demand price and buyer can buy with desired price. 
